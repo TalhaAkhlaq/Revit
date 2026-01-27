@@ -1,5 +1,7 @@
 # Revit MEP Electrical House Model
 
+image.png
+
 Residential Revit MEP electrical model built by replicating the instructor’s workflow.
 
 ## Features
