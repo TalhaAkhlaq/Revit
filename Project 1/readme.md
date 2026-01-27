@@ -1,8 +1,10 @@
+<p align="center">
+  <img src="image.png" alt="Revit MEP Electrical House Model" width="750">
+</p>
+
 # Revit MEP Electrical House Model
 
-![Revit MEP Electrical House Model](image.png)
-
-Residential Revit MEP electrical model built by replicating the instructor’s workflow.
+Residential Revit MEP electrical model built by replicating the instructor’s workflow
 
 ## Features
 - Device layout: receptacles, lighting fixtures, and switches (NEC-aware placement notes where applicable)
