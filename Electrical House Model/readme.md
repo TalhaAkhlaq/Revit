@@ -4,7 +4,7 @@
 
 # Revit MEP Electrical House Model
 
-Residential Revit MEP electrical model built by replicating the instructor’s workflow
+## Residential Revit MEP electrical model built by replicating the instructor’s workflow
 
 ## Features
 - Device layout: receptacles, lighting fixtures, and switches (NEC-aware placement notes where applicable)
