@@ -1,6 +1,6 @@
 # Revit Projects
 
-1. [Electrical House Model](https://github.com/TalhaAkhlaq/Revit/tree/main/Project%201)
+1. [Electrical House Model](https://github.com/TalhaAkhlaq/Revit/tree/main/Electrical%20House%20Model)
 
 ## Copyright & Licensing
 
